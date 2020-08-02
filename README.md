@@ -25,3 +25,14 @@ You can find and get touch with me on these accounts!
 
 | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/Hacker-C) | [<img src="https://s1.ax1x.com/2020/08/02/aYLirR.jpg" alt="zhihu logo" width="24">](https://www.zhihu.com/people/ai-xiao-xi-19) | [<img src="https://s1.ax1x.com/2020/08/02/aYLbWD.jpg" alt="blog logo" width="30">](https://mphy.gitee.io)| [<img src="https://s1.ax1x.com/2020/08/02/aYOdfO.jpg" alt="notion logo" width="24">](https://www.notion.so/Murphy-Home-6b4fa83a12904c959da80c0b62ecdd47) | [<img src="https://s1.ax1x.com/2020/08/02/aYOc7t.jpg" alt="qq logo" width="34">](https://s1.ax1x.com/2020/08/02/aYXE9O.jpg)|
 |---|---|---|---|---|
+
+### 💻 Open Source Work Stats
+
+
+![lizheming's Github stats](https://github-readme-stats.vercel.app/api?username=Hacker-C&show_icons=true)
+
+[-1]: https://www.facebook.com/Austin.Lee.9173/
+[0]: https://m.weibo.cn/u/1694884707
+[1]: https://www.zhihu.com/people/lizheming
+[2]: https://segmentfault.com/u/lizheming
+[3]: https://www.v2ex.com/member/lizheming
