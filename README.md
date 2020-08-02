@@ -36,14 +36,12 @@ I'm Murphy chen from China. I love the Internet, love learning Internet technolo
 
 ### My Tools 🛠️
 
-- Know/Using
-
 | [<img src="https://s1.ax1x.com/2020/08/02/aYbj9e.png" alt="eclipse logo" width="24">](https://www.eclipse.org) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/git.png" alt="git logo" width="24">](https://git-scm.com/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="vscode logo" width="24">](https://code.visualstudio.com/) | [<img src="https://s1.ax1x.com/2020/08/02/aYqKH0.jpg" alt="terminal logo" width="24">](https://docs.microsoft.com/en-us/windows/terminal)|<img src="https://s1.ax1x.com/2020/08/02/aYqRbt.jpg" alt="typora logo" width="24">| many more...|
-|---|---|---|---|
+|---|---|---|---|---|
 
 ### Other Accounts 📫
 
 You can find and get touch with me on these accounts!
 
 | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/Hacker-C) | [<img src="https://s1.ax1x.com/2020/08/02/aYLirR.jpg" alt="zhihu logo" width="24">](https://www.zhihu.com/people/ai-xiao-xi-19) | [<img src="https://s1.ax1x.com/2020/08/02/aYLbWD.jpg" alt="blog logo" width="24">](https://mphy.gitee.io)| [<img src="https://s1.ax1x.com/2020/08/02/aYOdfO.jpg" alt="notion logo" width="24">](https://www.notion.so/Murphy-Home-6b4fa83a12904c959da80c0b62ecdd47) | [<img src="https://s1.ax1x.com/2020/08/02/aYOc7t.jpg" alt="qq logo" width="34">](https://s1.ax1x.com/2020/08/02/aYXE9O.jpg)|
-|---|---|---|---|
+|---|---|---|---|---|
