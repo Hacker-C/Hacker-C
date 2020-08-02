@@ -3,8 +3,8 @@
 - 📙 I'm currently learning Java SE and University courses.
 - 😄 I'm intersted in Suspense, Sci-fi movies, music, running and the coding.
 - 🎉 I'm looking forward to finding like-minded friends and welcome to study and talk with me.
-- 🙈 I'm weak in coding, I am weak, but I will always be trying to learn computer science and technology.
-- 📬 This is my email: mphy@qq.com
+- 🙈 I'm weak in coding, but I will always be trying to learn computer science and technology.
+- 📬 This is my email 👉 mphy@qq.com
 
 ### Programming Languages 🌐
 
