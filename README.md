@@ -25,7 +25,7 @@ You can find and get touch with me on these accounts!
 
 ### Open Source Work Stats 💻
 
-![lizheming's Github stats](https://github-readme-stats.vercel.app/api?username=Hacker-C&show_icons=true)
+![Hacker-C's Github stats](https://github-readme-stats.vercel.app/api?username=Hacker-C&show_icons=true)
 
 ---
 
