@@ -1,6 +1,7 @@
 <div align="center">
   <img alt="loading" src="https://s1.ax1x.com/2020/08/09/aTnhJe.gif"/>
   <div>loading...</div>
+  <img src="https://img.shields.io/badge/dynamic/json?label=Visits&query=%24.kidonng&url=https%3A%2F%2Fcounter.xuann.wang%2Fapi?name=Hacker-C">
 </div>
 <br />
 
