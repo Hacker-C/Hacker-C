@@ -1,4 +1,4 @@
-<div align=center>![avatar](https://s1.ax1x.com/2020/08/09/aTnhJe.gif)
+<img alt="loading" src="https://s1.ax1x.com/2020/08/09/aTnhJe.gif" align="center" />
   
 
 ### Hi there! I am Muprhy Chen.  👋
