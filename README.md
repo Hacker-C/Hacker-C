@@ -1,6 +1,6 @@
 <div align="center">
   <img alt="loading" src="https://s1.ax1x.com/2020/08/09/aTnhJe.gif"/>
-  <span>loading...</span>
+  <div>loading...</div>
 </div>
 <br />
 
