@@ -11,6 +11,7 @@
 - 🎉 I'm looking forward to finding like-minded friends and welcome to study and talk with me.
 - 🙈 I'm weak in coding, but I will always be trying to learn computer science and technology.
 - 📬 This is my email 👉 mphy@qq.com
+- 📙 Here is my blog 👉 https://mphy.gitee.io
 
 ### Programming Languages 🌐
 
