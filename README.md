@@ -3,12 +3,12 @@
   <img alt="loading" src="https://s1.ax1x.com/2020/08/09/aTnhJe.gif"/>
 </div>
 --->
+<div align="center">
+  <img alt="loading" src="https://s1.ax1x.com/2020/08/24/drokbn.png"/>
+</div>
 ### Hi there! I am Muprhy Chen.  👋 
 - 🧑 I was a freshman who majors in Computer Science and Technology and studies at Nanchang University in China.
-- 📙 I'm currently learning Java SE and University courses.
 - 😄 I'm intersted in Suspense, Sci-fi movies, music, running and the coding.
-- 🎉 I'm looking forward to finding like-minded friends and welcome to study and talk with me.
-- 🙈 I'm weak in coding, but I will always be trying to learn computer science and technology.
 - 📬 This is my email 👉 mphy@qq.com
 - 📙 Here is my blog 👉 https://mphy.gitee.io
 
