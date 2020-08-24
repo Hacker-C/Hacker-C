@@ -4,7 +4,7 @@
 </div>
 --->
 <div align="center">
-  <img alt="loading" src="https://s1.ax1x.com/2020/08/24/drokbn.png" width="150"/>
+  <img alt="loading" src="https://s1.ax1x.com/2020/08/24/drokbn.png" width="500"/>
 </div>
 
 ### Hi there! I am Muprhy Chen.  👋 
