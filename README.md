@@ -3,7 +3,7 @@
   <img alt="loading" src="https://s1.ax1x.com/2020/08/09/aTnhJe.gif"/>
 </div>
 --->
-### Hi there! I am Muprhy Chen.  👋 <img src="https://komarev.com/ghpvc/?username=Hacker-C" alt="Hacker-C" /> 
+### Hi there! I am Muprhy Chen.  👋 
 - 🧑 I was a freshman who majors in Computer Science and Technology and studies at Nanchang University in China.
 - 📙 I'm currently learning Java SE and University courses.
 - 😄 I'm intersted in Suspense, Sci-fi movies, music, running and the coding.
@@ -35,5 +35,7 @@ You can find and get touch with me on these accounts!
 ![Hacker-C's Github stats](https://github-readme-stats.vercel.app/api?username=Hacker-C&show_icons=true)
 
 ---
+
+<img src="https://komarev.com/ghpvc/?username=Hacker-C" alt="Hacker-C" /> 
 
 ### ⭐ From [Hacker-C](https://github.com/Hacker-C)
