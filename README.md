@@ -9,6 +9,7 @@
 - 😄 I'm intersted in Suspense, Sci-fi movies, music, running and the coding.
 - 📬 This is my email 👉 mphy@qq.com
 - 📙 Here is my blog 👉 https://mphy.gitee.io
+- 💖 Waiting for your following 👉 https://www.zhihu.com/people/ai-xiao-xi-19
 
 ### Programming Languages 🌐
 
