@@ -5,11 +5,11 @@
 --->
 
 ### Hi there! I am Muprhy Chen.  👋 
-- 🧑 I was a freshman who majors in Computer Science and Technology and studies at Nanchang University in China.
-- 😄 I'm intersted in Suspense, Sci-fi movies, music, running and the coding.
+- 🧑 A sophomore who studies CS in NCU.
+- 😄 Like suspense, Sci-fi, music, running and coding.
 - 📬 This is my email 👉 mphy@qq.com
 - 📙 Here is my blog 👉 https://mphy.gitee.io
-- 💖 Waiting for your following 👉 https://www.zhihu.com/people/ai-xiao-xi-19
+- 💖 Waiting for your follow: 👉 [Guia Chen](https://www.zhihu.com/people/ai-xiao-xi-19)
 
 ### Programming Languages 🌐
 
