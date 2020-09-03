@@ -7,9 +7,9 @@
 ### Hi there! I am Muprhy Chen.  👋 
 - 🧑 A sophomore who studies CS in NCU.
 - 😄 Like suspense, Sci-fi, music, running and coding.
+- 🚀 Learning Java & Python.
 - 📬 This is my email 👉 mphy@qq.com
 - 📙 Here is my blog 👉 https://mphy.gitee.io
-- 💖 Waiting for your follow: 👉 [Guia Chen](https://www.zhihu.com/people/ai-xiao-xi-19)
 
 ### Programming Languages 🌐
 
