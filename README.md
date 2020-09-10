@@ -7,7 +7,7 @@
 ### Hi there! I am Muprhy Chen.  👋 
 - 🧑 A sophomore who studies CS in NCU.
 - 😄 Like suspense, Sci-fi, music, running and coding.
-- 🚀 Learning Java & Python.
+- 🚀 Learning Python.
 - 📬 This is my email 👉 mphy@qq.com
 - 📙 Here is my blog 👉 https://mphy.gitee.io
 
