@@ -4,7 +4,7 @@
 </div>
 --->
 
-### Hi there! I am MuprhyChen.  👋 
+## Hi there! I am MurphyChen.  👋 
 - 🧑 A sophomore who studies CS in NCU.
 - 😄 Like suspense, Sci-fi, music, running and coding.
 - 🚀 Learning FE & Java.
