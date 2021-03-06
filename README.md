@@ -9,7 +9,7 @@
 - 😄 Like suspense, Sci-fi, music, running and coding.
 - 🚀 Learning FE & Java.
 - 📬 This is my email 👉 mphy@qq.com
-- 📙 Here is my blog 👉 https://mphy.gitee.io
+- 📙 Here is my blog 👉 https://mphy.top
 - 💓 Welcome to follow my [zhihu account](https://www.zhihu.com/people/ai-xiao-xi-19)!
 
 ### Programming Languages 🌐
