@@ -12,6 +12,7 @@
 - 📙 Here is my blog 👉 https://mphy.top
 - 💓 Welcome to follow my [zhihu account](https://www.zhihu.com/people/ai-xiao-xi-19)!
 
+<!--
 ### Programming Languages 🌐
 
 |<img src="https://s1.ax1x.com/2020/08/02/atPoGR.jpg" alt="js logo" width="24">|<img src="https://s1.ax1x.com/2020/08/02/atPZgx.jpg" alt="html5 logo" width="24">|<img src="https://s1.ax1x.com/2020/08/02/atPB5j.jpg" alt="css3 logo" width="30">| [<img src="https://s1.ax1x.com/2020/08/02/aYbPW4.jpg" alt="java logo" width="40">](https://www.java.com) | [<img src="https://s1.ax1x.com/2020/08/03/aaEALn.jpg" alt="python logo" width="30">](https://www.python.org/)|<img src="https://s1.ax1x.com/2020/10/25/BeI279.jpg" alt="c language" width="35">|
@@ -31,6 +32,7 @@ You can find and get touch with me on these accounts!
 
 
 ### Open Source Work Stats 💻
+-->
 
 ![Hacker-C's Github stats](https://github-readme-stats.vercel.app/api?username=Hacker-C&show_icons=true)
 
