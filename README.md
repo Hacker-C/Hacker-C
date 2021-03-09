@@ -4,10 +4,9 @@
 </div>
 --->
 
-## Hi there! I am MurphyChen.  👋 
+## Hi! I am MurphyChen.  👋 
 - 🧑 A sophomore who studies CS in NCU.
-- 😄 Like suspense, Sci-fi, music, running and coding.
-- 🚀 Learning FE & Java.
+- 🚀 Learning CSS & JS.
 - 📬 This is my email 👉 mphy@qq.com
 - 📙 Here is my blog 👉 https://mphy.top
 - 💓 Welcome to follow my [zhihu account](https://www.zhihu.com/people/ai-xiao-xi-19)!
@@ -40,4 +39,4 @@ You can find and get touch with me on these accounts!
 
 ---
 
-### ⭐ From [Hacker-C](https://github.com/Hacker-C)
+⭐ From [Hacker-C](https://github.com/Hacker-C)
