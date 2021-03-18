@@ -31,12 +31,12 @@ You can find and get touch with me on these accounts!
 
 
 ### Open Source Work Stats 💻
--->
 
 ![Hacker-C's Github stats](https://github-readme-stats.vercel.app/api?username=Hacker-C&show_icons=true)
 
 <img src="https://komarev.com/ghpvc/?username=Hacker-C" alt="Hacker-C" /> 
 
 ---
+-->
 
 ⭐ From [Hacker-C](https://github.com/Hacker-C)
