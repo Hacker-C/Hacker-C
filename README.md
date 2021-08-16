@@ -6,7 +6,6 @@
 
 ## Hi! I am MurphyChen.  👋 
 - 🧑 A sophomore who studies CS in NCU.
-<!-- 🚀 Learning CSS & JS.-->
 - 📬 This is my email 👉 mphy@qq.com
 - 📙 Here is my blog 👉 https://blog.mphy.top
 <!-- - 💓 Welcome to follow my [zhihu account](https://www.zhihu.com/people/ai-xiao-xi-19)!-->
