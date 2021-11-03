@@ -9,6 +9,7 @@
 - ⭐ Welcome to follow my zhihu: [MurphyChen](https://www.zhihu.com/people/mphyc)
 - 📬 This is my email 👉 mphy@qq.com
 - 📙 Here is my blog 👉 [blog.mphy.top](https://blog.mphy.top)
+- 📗 This is my notebook: 👉 [docs.mphy.top](https://docs.mphy.top)
 <!-- - 💓 Welcome to follow my [zhihu account](https://www.zhihu.com/people/ai-xiao-xi-19)!-->
 
 <!--
