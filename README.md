@@ -4,3 +4,5 @@
 - 📬 This is my email 👉 mphy@qq.com
 - 📘 Here is my blog 👉 [blog.mphy.top](https://blog.mphy.top)
 - 📗 This is my notebook 👉 [docs.mphy.top](https://docs.mphy.top)
+
+<img src="https://github-readme-stats.vercel.app/api?username=Jungbey&count_private=true&show_icons=true&include_all_commits=false" alt="Jungbey's github stats"/>
