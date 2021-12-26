@@ -14,11 +14,11 @@
 <table>
   <tr>
     <td width="50%">
-      ### Top Languages
+      <h3>Top Languages</h3>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hacker-C&layout=compact"/>
     </td>
     <td width="50%">
-      ### Visitors
+      <h3> Visitors</h3>
     <img src="https://profile-counter.glitch.me/Hacker-C/count.svg">
     </td>
   </tr>
