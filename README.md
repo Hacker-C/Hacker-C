@@ -7,20 +7,14 @@
 
 ### Status
 
-<img  src="https://github-readme-stats.vercel.app/api?username=Hacker-C&count_private=true&show_icons=true&include_all_commits=false" alt="MurphyChen's github stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Hacker-C&count_private=true&show_icons=true&include_all_commits=false" alt="MurphyChen's github stats"/>
 
 ### Top Lang
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>Top Languages</h3>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hacker-C&layout=compact"/>
-    </td>
-    <td width="50%">
-      <h3> Visitors</h3>
-    <img src="https://profile-counter.glitch.me/Hacker-C/count.svg">
-    </td>
-  </tr>
-</table>
+
+#### Visitors
+
+<img src="https://profile-counter.glitch.me/Hacker-C/count.svg">
+
 
