@@ -11,7 +11,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=Hacker-C&count_private=true&show_icons=true&include_all_commits=false" alt="MurphyChen's github stats"/>
     </td>
     <td width="50%">
-      ![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Hacker-C&layout=compact)
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hacker-C&layout=compact" />
     </td>
   </tr>
   </table>
