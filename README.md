@@ -11,4 +11,16 @@
 
 ### Top Lang
 
+<table>
+  <tr>
+    <td width="50%">
+      ### Top Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hacker-C&layout=compact"/>
+    </td>
+    <td width="50%">
+      ### Visitors
+    <img src="https://profile-counter.glitch.me/Hacker-C/count.svg">
+    </td>
+  </tr>
+</table>
+
