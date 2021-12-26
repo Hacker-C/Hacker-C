@@ -6,12 +6,12 @@
 - 📗 This is my notebook 👉 [docs.mphy.top](https://docs.mphy.top)
 
 <table>
-  <tr width="80%">
+  <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Hacker-C&count_private=true&show_icons=true&include_all_commits=false" alt="MurphyChen's github stats"/>
+      <img height="90%" src="https://github-readme-stats.vercel.app/api?username=Hacker-C&count_private=true&show_icons=true&include_all_commits=false" alt="MurphyChen's github stats"/>
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hacker-C&layout=compact" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hacker-C&layout=compact" height="90%"/>
     </td>
   </tr>
   </table>
