@@ -5,9 +5,9 @@
 - 📘 Here is my blog 👉 [blog.mphy.top](https://blog.mphy.top)
 - 📗 This is my notebook 👉 [docs.mphy.top](https://docs.mphy.top)
 
-<!-- ### Status -->
+### Github Contributions
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=Hacker-C&count_private=true&show_icons=true&include_all_commits=false" alt="MurphyChen's github stats"/> -->
+<img src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/github-contribution.svg" />
 
 ### Top Lang
 
