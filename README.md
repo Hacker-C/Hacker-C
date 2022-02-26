@@ -5,10 +5,6 @@
 - 📘 Here is my blog 👉 [blog.mphy.top](https://blog.mphy.top)
 - 📗 This is my notebook 👉 [docs.mphy.top](https://docs.mphy.top)
 
-### Github Contributions
-
-<img src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/github-contribution.svg" />
-
 ### Top Lang
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hacker-C&layout=compact"/>
@@ -16,5 +12,3 @@
 #### Visitors
 
 <img src="https://profile-counter.glitch.me/Hacker-C/count.svg">
-
-
