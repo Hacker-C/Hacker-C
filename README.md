@@ -16,6 +16,7 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/ubuntu.png"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/terminal.png"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/vs-code.png"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/one-dark.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/chrome.png"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/typora.png"></code>
 
