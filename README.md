@@ -1,10 +1,10 @@
 ### Hi! I am MurphyChen.  👋 
 - 🧑 A sophomore who studies CS in NCU.
-- Learning Vue3 & TypeScript...
+- 💻 Learning Vue3 & TypeScript...
 - 📬 This is my email 👉 mphy@qq.com
-- About Me: https://mphy.top
-<!-- - 📘 Here is my blog 👉 [blog.mphy.top](https://blog.mphy.top) -->
-<!-- - 📗 This is my notebook 👉 [docs.mphy.top](https://docs.mphy.top) -->
+- 🙋‍♂️ About Me: https://mphy.top
+- 📘 My blog 👉 [blog.mphy.top](https://blog.mphy.top) 
+- 📗 My notebook 👉 [docs.mphy.top](https://docs.mphy.top)
 
 
 ### Skills & Tools
