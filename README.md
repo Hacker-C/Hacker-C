@@ -2,7 +2,7 @@
 - 🧑 A sophomore who studies CS in NCU.
 - 💻 Learning Vue3 & TypeScript...
 - 📬 This is my email 👉 mphy@qq.com
-- 🙋‍♂️ About Me 👉 <a href="https://mphy.top" target="_blank">docs.mphy.top</a>
+- 🙋‍♂️ About Me 👉 <a href="https://mphy.top" target="_blank">mphy.top</a>
 - 📘 My blog 👉 <a href="https://blog.mphy.top" target="_blank">blog.mphy.top</a>
 - 📗 My notebook 👉 <a href="https://docs.mphy.top" target="_blank">docs.mphy.top</a>
 
