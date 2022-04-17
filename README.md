@@ -20,7 +20,7 @@
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/ubuntu.png"></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/terminal1.png"></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/vs-code.png"></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/one-dark.svg"></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/vim.png"></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/chrome.png"></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/typora.png"></code>
 
