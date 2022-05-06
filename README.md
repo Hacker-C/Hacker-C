@@ -27,11 +27,11 @@
 
 ### Status
 
-![hacker-c's github stats](https://github-readme-stats.vercel.app/api?username=hacker-c&theme=dark&show_icons=true)
+![hacker-c's github stats](https://github-readme-stats.vercel.app/api?username=hacker-c&theme=merko&show_icons=true)
 
-### Top Lang
+<!-- ### Top Lang -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hacker-C&theme=dark&layout=compact"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hacker-C&theme=merko&layout=compact"/> -->
 
 #### Visitors
 
