@@ -1,5 +1,7 @@
 ### Hi! I am MurphyChen.  👋 
 
+<img align="right" width="105" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/chrome-rotate.gif"/>
+
 - 🧑 A sophomore who studies CS in NCU.
 - 💻 Learning Vue3 & TypeScript...
 
