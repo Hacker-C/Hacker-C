@@ -1,10 +1,16 @@
 ### Hi! I am MurphyChen.  👋 
+
 - 🧑 A sophomore who studies CS in NCU.
 - 💻 Learning Vue3 & TypeScript...
 - 📬 This is my email 👉 mphy@qq.com
 - 🙋‍♂️ About Me 👉 <a href="https://mphy.top" target="_blank">mphy.top</a>
 - 📘 My blog 👉 <a href="https://blog.mphy.top" target="_blank">blog.mphy.top</a>
 - 📗 My notebook 👉 <a href="https://docs.mphy.top" target="_blank">docs.mphy.top</a>
+
+---
+
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=hacker-c&theme=merko&show_icons=true" />
 
 ### Skills & Tools
 
@@ -25,14 +31,10 @@
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/typora.png"></code>
 
 
-### Status
-
-![hacker-c's github stats](https://github-readme-stats.vercel.app/api?username=hacker-c&theme=merko&show_icons=true)
-
 <!-- ### Top Lang -->
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hacker-C&theme=merko&layout=compact"/> -->
 
-#### Visitors
+### Visitors
 
 <img src="https://profile-counter.glitch.me/Hacker-C/count.svg">
