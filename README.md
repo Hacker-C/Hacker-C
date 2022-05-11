@@ -2,10 +2,11 @@
 
 - 🧑 A sophomore who studies CS in NCU.
 - 💻 Learning Vue3 & TypeScript...
-- 📬 This is my email 👉 mphy@qq.com
-- 🙋‍♂️ About Me 👉 <a href="https://mphy.top" target="_blank">mphy.top</a>
-- 📘 My blog 👉 <a href="https://blog.mphy.top" target="_blank">blog.mphy.top</a>
-- 📗 My notebook 👉 <a href="https://docs.mphy.top" target="_blank">docs.mphy.top</a>
+
+<a href="https://docs.mphy.top"> <img src="https://img.shields.io/badge/-notes-46a072?style=for-the-badge&logo=gitbook&logoColor=ffffff" /></a>
+<a href="https://blog.mphy.top"> <img src="https://img.shields.io/badge/-blog-346dbd?style=for-the-badge&logo=mega&logoColor=ffffff" /></a>
+<a href="https://mphy.top"> <img src="https://img.shields.io/badge/-about%20me-01a3a4?style=for-the-badge&logo=iconify&logoColor=ffffff" /></a>
+<a href="mailto:mphy@qq.com"> <img src="https://img.shields.io/badge/-email-279de0?style=for-the-badge&logo=Mail.Ru&logoColor=ffffff" /></a>
 
 ---
 
