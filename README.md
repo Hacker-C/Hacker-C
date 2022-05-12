@@ -15,7 +15,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=hacker-c&theme=merko&show_icons=true" />
 
-### Skills & Tools
+### Skills & Tools 🛠
 
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/html5.png"></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/css3.png"></code>
@@ -38,6 +38,10 @@
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hacker-C&theme=merko&layout=compact"/> -->
 
-### Visitors
+### Visitors 👀
 
 <img src="https://profile-counter.glitch.me/Hacker-C/count.svg">
+
+### Star ⭐
+
+[Hakcer-C's Profile](https://github.com/Hacker-C/Hacker-C)
