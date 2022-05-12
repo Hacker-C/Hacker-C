@@ -42,6 +42,8 @@
 
 <img src="https://profile-counter.glitch.me/Hacker-C/count.svg">
 
-### Star ⭐
+---
+
+#### Star ⭐
 
 [Hakcer-C's Profile](https://github.com/Hacker-C/Hacker-C)
