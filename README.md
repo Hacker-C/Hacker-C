@@ -20,18 +20,18 @@
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/html5.png"></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/css3.png"></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/javascript.png"></code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/typescript.png"></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/vuejs.png"></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/node-js.png"></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/less.png"></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/typescript.png"></code>
 <br>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/git.png"></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/ubuntu.png"></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/terminal1.png"></code>
+<code><a href="https://ohmyz.sh/"><img height="25" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/terminal1.png"></a></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/vs-code.png"></code>
+<code><a href="https://vscodethemes.com/e/zhuangtongfa.material-theme/one-dark-pro"><img height="25" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/one-dark.svg"></a></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/vim.png"></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/chrome.png"></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/typora.png"></code>
 
 
 <!-- ### Top Lang -->
