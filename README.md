@@ -2,8 +2,8 @@
 
 <!-- <img align="right" width="105" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/chrome-rotate.gif"/> -->
 
-- 🧑 A sophomore who studies CS in NCU.
-- 💻 Learning Vue3 & TypeScript...
+- 🧑 A junior student studying at NCU.
+- 💻 Learning React & TypeScript...
 
 <code><a target="_blank" href="https://mphy.top"> <img src="https://img.shields.io/badge/-about%20me-01a3a4?style=for-the-badge&logo=iconify&logoColor=ffffff" /></a></code>
 <code><a target="_blank" href="https://docs.mphy.top"> <img src="https://img.shields.io/badge/-notes-46a072?style=for-the-badge&logo=gitbook&logoColor=ffffff" /></a></code>
