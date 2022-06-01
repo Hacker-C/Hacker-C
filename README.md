@@ -8,9 +8,7 @@
 <code><a target="_blank" href="https://mphy.top"> <img src="https://img.shields.io/badge/-about%20me-01a3a4?style=for-the-badge&logo=iconify&logoColor=ffffff" /></a></code>
 <code><a target="_blank" href="https://docs.mphy.top"> <img src="https://img.shields.io/badge/-notes-46a072?style=for-the-badge&logo=gitbook&logoColor=ffffff" /></a></code>
 <code><a target="_blank" href="https://blog.mphy.top"> <img src="https://img.shields.io/badge/-blog-346dbd?style=for-the-badge&logo=mega&logoColor=ffffff" /></a></code>
-<code><a target="_blank" href="https://idk-js.mphy.top"> <img src="https://img.shields.io/badge/-idkjs-9b59b6?style=for-the-badge&logo=hackaday&logoColor=ffffff" /></a></code>
-
-
+<code><a target="_blank" href="http://idk-js.mphy.top"> <img src="https://img.shields.io/badge/-idkjs-9b59b6?style=for-the-badge&logo=hackaday&logoColor=ffffff" /></a></code>
 <code><a target="_blank" href="mailto:mphy@qq.com"> <img src="https://img.shields.io/badge/-mphy@qq.com-279de0?style=for-the-badge&logo=Mail.Ru&logoColor=ffffff" /></a></code>
 
 ---
