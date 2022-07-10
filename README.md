@@ -30,7 +30,7 @@
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/ubuntu.png"></code>
 <code><a href="https://ohmyz.sh/"><img height="25" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/terminal1.png"></a></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/vs-code.png"></code>
-<code><a href="https://vscodethemes.com/e/zhuangtongfa.material-theme/one-dark-pro"><img height="25" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/one-dark.svg"></a></code>
+<code><a href="https://marketplace.visualstudio.com/items?itemName=atomiks.moonlight"><img height="25" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/moon-light.png"></a></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/vim.png"></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/chrome.png"></code>
 
