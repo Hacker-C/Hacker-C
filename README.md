@@ -1,4 +1,4 @@
-# Hi! My name is MurphyChen.  👋 
+# Hi! My name is MurphyChen.  <img height="40" width="40" src="./assets/wave.gif">
 
 <!-- <img align="right" width="105" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/chrome-rotate.gif"/> -->
 
@@ -13,8 +13,7 @@
 
 ---
 
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=hacker-c&theme=merko&show_icons=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=hacker-c&theme=tokyonight&show_icons=true&hide=contribs,issues" />
 
 ## Skills & Tools 🛠
 
@@ -33,11 +32,6 @@
 <code><a href="https://marketplace.visualstudio.com/items?itemName=atomiks.moonlight"><img height="25" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/moon-light.png"></a></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/vim.png"></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/chrome.png"></code>
-
-
-<!-- ### Top Lang -->
-
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hacker-C&theme=merko&layout=compact"/> -->
 
 ## Visitors 👀
 
