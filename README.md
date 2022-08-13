@@ -35,7 +35,8 @@
     </td>
     <td>
       <h3>Visitors 👀</h3>
-      <img src="https://profile-counter.glitch.me/Hacker-C/count.svg">  
+<!--             <img src="https://profile-counter.glitch.me/Hacker-C/count.svg">   -->
+            <img src="https://komarev.com/ghpvc/?username=hacker-c"/>
     </td>
   </tr>
   <tr></tr>
