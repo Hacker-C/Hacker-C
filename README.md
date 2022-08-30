@@ -47,7 +47,7 @@
     </td>
     <td>
       <h3>Top Lang 💻</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hacker-c&layout=compact&theme=tokyonight&hide=java,HTML,javascript,css,ruby,rust" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hacker-c&layout=compact&theme=tokyonight&hide=java,ruby,rust" />
     </td>
   </tr>
 </table>
