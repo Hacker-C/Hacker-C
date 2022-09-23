@@ -2,7 +2,7 @@
 
 <img align="right" width="105" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/chrome-rotate.gif"/>
 
-- 🧑 A junior student studying at NCU.
+- 🧑 A senior student studying at NCU
 - 💻 Focus on Vue & TypeScript
 
 <code><a target="_blank" href="https://mphy.me"> <img src="https://img.shields.io/badge/-about%20me-01a3a4?style=for-the-badge&logo=iconify&logoColor=ffffff" /></a></code>
