@@ -37,7 +37,7 @@
       <code><a href="https://www.google.com/chrome/"><img height="25" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/chrome.png"></a></code>
     </td>
     <td>
-      <h3>Visitors 👀</h3>
+      <h3>Views 👀</h3>
       <img src="https://profile-counter.glitch.me/Hacker-C/count.svg">
             <!-- <img src="https://komarev.com/ghpvc/?username=hacker-c"/> -->
     </td>
