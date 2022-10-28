@@ -4,6 +4,7 @@
 
 - 🧑 A senior student studying at NCU
 - 💻 Learning React & TypeScript...
+- More about me: https://mphy.me
 
 <code><a target="_blank" href="https://mphy.me"> <img src="https://img.shields.io/badge/-about%20me-01a3a4?style=for-the-badge&logo=iconify&logoColor=ffffff" /></a></code>
 <code><a target="_blank" href="http://idk-js.mphy.top"> <img src="https://img.shields.io/badge/-idkjs-9b59b6?style=for-the-badge&logo=hackaday&logoColor=ffffff" /></a></code>
