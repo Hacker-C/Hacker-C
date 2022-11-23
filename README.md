@@ -1,4 +1,4 @@
-# Hi! My name is MurphyChen.  <img height="40" width="40" src="./assets/wave.gif">
+# Hello! I'm Murphy Chen  <img height="40" width="40" src="./assets/wave.gif">
 
 <img align="right" width="105" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/chrome-rotate.gif"/>
 
