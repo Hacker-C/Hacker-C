@@ -47,7 +47,7 @@
   <tr>
     <td>
       <h3>Stats 📉</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=hacker-c&theme=tokyonight&show_icons=true&hide=contribs,issues" />
+      <img src="https://github-readme-stats.vercel.app/api?username=hacker-c&theme=tokyonight&show_icons=true&hide=contribs" />
     </td>
     <td>
       <h3>Top Lang 💻</h3>
