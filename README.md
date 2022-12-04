@@ -54,9 +54,9 @@
   </tr>
 </table>
 
-## Commits 🚀
+<!-- ## Commits 🚀
 
-<img src="https://activity-graph.herokuapp.com/graph?username=hacker-c&theme=react-dark">
+<img src="https://activity-graph.herokuapp.com/graph?username=hacker-c&theme=react-dark"> -->
 
 ## Repo ⭐
 
