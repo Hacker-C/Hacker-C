@@ -21,21 +21,19 @@
   <tr>
     <td>
       <h3>Skills & Tools 🛠</h3>
-      <code><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img height="40" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/html5.png"></a></code>
-      <code><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img height="40" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/css3.png"></a></code>
       <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="40" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/javascript.png"></a></code>
       <code><a href="https://www.typescriptlang.org/"><img height="40" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/typescript.png"></a></code>
       <code><a href="https://vuejs.org/"><img height="40" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/vuejs.png"></a></code>
+      <code><a href="https://beta.reactjs.org"><img height="40" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/react.png"></a></code>
       <code><a href="https://nodejs.org"><img height="40" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/node-js.png"></a></code>
-      <code><a href="https://tailwindcss.com/"><img height="40" src="https://raw.githubusercontent.com/hacker-c/Picture-Bed/main/icons/favicon.png"></a></code>
+      <code><a href="https://github.com/unocss/unocss"><img height="40" src="https://raw.githubusercontent.com/hacker-c/Picture-Bed/main/icons/uno.png"></a></code>
       <br>
       <code><a href="https://git-scm.com/"><img height="40" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/git.png"></a></code>
       <code><a href="https://docs.microsoft.com/en-us/windows/wsl/"><img height="40" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/ubuntu.png"></a></code>
-      <code><a href="https://github.com/sindresorhus/pure"><img height="40" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/terminal1.png"></a></code>
       <code><a href="https://code.visualstudio.com/"><img height="40" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/vs-code.png"></a></code>
       <code><a href="https://marketplace.visualstudio.com/items?itemName=atomiks.moonlight"><img height="40" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/moon-light.png"></a></code>
       <code><a href="https://typora.io/"><img height="40" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/typora.png"></a></code>
-      <code><a href="https://www.google.com/chrome/"><img height="40" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/chrome.png"></a></code>
+      <code><a href="https://www.microsoft.com/en-us/edge"><img height="40" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/edge.png"></a></code>
     </td>
     <td>
       <h3>Views 👀</h3>
