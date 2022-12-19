@@ -3,7 +3,7 @@
 <img align="right" width="105" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/chrome-rotate.gif"/>
 
 - 🧑 A senior student studying at NCU
-- 💻 Learning React & TypeScript...
+- 💻 Learning React & TypeScript
 - More about me: https://mphy.me
 
 ---
