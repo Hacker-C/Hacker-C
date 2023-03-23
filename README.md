@@ -6,7 +6,7 @@
 - 💻 Learning React & TypeScript
 - More about me: https://mphy.me
 
----
+<br />
 
 <!--
 <code><a target="_blank" href="https://mphy.me"> <img src="https://img.shields.io/badge/-about%20me-01a3a4?style=for-the-badge&logo=iconify&logoColor=ffffff" /></a></code>
@@ -31,7 +31,7 @@
       <code><a href="https://github.com/unocss/unocss"><img height="40" src="https://raw.githubusercontent.com/hacker-c/Picture-Bed/main/icons/uno.png"></a></code>
       <br>
       <code><a href="https://git-scm.com/"><img height="40" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/git.png"></a></code>
-      <code><a href="https://docs.microsoft.com/en-us/windows/wsl/"><img height="40" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/ubuntu.png"></a></code>
+      <code><a href="https://learn.microsoft.com/en-us/powershell"><img height="40" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/pwsh1.png"></a></code>
       <code><a href="https://code.visualstudio.com/"><img height="40" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/vs-code.png"></a></code>
       <code><a href="https://marketplace.visualstudio.com/items?itemName=atomiks.moonlight"><img height="40" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/moon-light.png"></a></code>
       <code><a href="https://typora.io/"><img height="40" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/typora.png"></a></code>
