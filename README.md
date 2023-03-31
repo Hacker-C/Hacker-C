@@ -1,25 +1,22 @@
 # Hello! I'm Murphy Chen  <img height="40" width="40" src="./assets/wave.gif">
 
-<img align="right" width="105" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/chrome-rotate.gif"/>
-
-- 🧑 A senior student studying at NCU
-- 💻 Learning React & TypeScript
-- More about me: https://mphy.me
-
 <br />
 
-<!--
-<code><a target="_blank" href="https://mphy.me"> <img src="https://img.shields.io/badge/-about%20me-01a3a4?style=for-the-badge&logo=iconify&logoColor=ffffff" /></a></code>
-<code><a target="_blank" href="http://idk-js.mphy.top"> <img src="https://img.shields.io/badge/-idkjs-9b59b6?style=for-the-badge&logo=hackaday&logoColor=ffffff" /></a></code>
-<code><a target="_blank" href="https://blog.mphy.top"> <img src="https://img.shields.io/badge/-blog-346dbd?style=for-the-badge&logo=mega&logoColor=ffffff" /></a></code>
-<code><a target="_blank" href="mailto:mphy@qq.com"> <img src="https://img.shields.io/badge/-mphy@qq.com-279de0?style=for-the-badge&logo=Mail.Ru&logoColor=ffffff" /></a></code>
--->
-
-<!--
-<code><a target="_blank" href="https://docs.mphy.top"> <img src="https://img.shields.io/badge/-notes-46a072?style=for-the-badge&logo=gitbook&logoColor=ffffff" /></a></code>
--->
-
 <table width="100%">
+  <tr>
+    <td>
+      <h3>About Me</h3>
+      <ul>
+        <li>🎓 A senior student studying at NCU</li>
+        <li>💻 Learning React & TypeScript</li>
+        <li>More about me: <a href="https://mphy.me">https://mphy.me</a></li>
+      </ul>
+    </td>
+    <td align='center'>
+      <img width="90%" src="./assets/Mayuri.gif"/>
+    </td>
+  </tr>
+  <tr></tr>
   <tr>
     <td>
       <h3>Skills & Tools 🛠</h3>
