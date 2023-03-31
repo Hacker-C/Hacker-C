@@ -1,4 +1,4 @@
-# Hello! I'm Murphy Chen  <img height="40" width="40" src="./assets/wave.gif">
+# Hi! I am Murphy Chen  <img height="40" width="40" src="./assets/wave.gif">
 
 <br />
 
@@ -13,6 +13,7 @@
       </ul>
     </td>
     <td align='center'>
+      <h3>du du lu~</h3>
       <img width="90%" src="./assets/Mayuri.gif"/>
     </td>
   </tr>
