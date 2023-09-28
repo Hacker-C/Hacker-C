@@ -7,8 +7,7 @@
     <td>
       <h3>About Me</h3>
       <ul>
-        <li>🎓 A senior student studying at NCU</li>
-        <li>💻 Learning React & TypeScript</li>
+        <li>💻 Working with JavaScript & Java</li>
         <li>More about me: <a href="https://mphy.me">https://mphy.me</a></li>
       </ul>
     </td>
