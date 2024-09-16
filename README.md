@@ -8,7 +8,7 @@
       <h3>About Me</h3>
       <ul>
         <li>💻 Working with JavaScript & Java</li>
-        <li>More about me: <a href="https://mphy.me">https://mphy.me</a></li>
+        <li>More about me: <a href="https://mphy.top">https://mphy.top</a></li>
       </ul>
     </td>
     <td align='center'>
