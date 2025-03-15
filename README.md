@@ -27,12 +27,12 @@
       <code><a href="https://nodejs.org"><img height="40" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/node-js.png"></a></code>
       <code><a href="https://github.com/unocss/unocss"><img height="40" src="https://raw.githubusercontent.com/hacker-c/Picture-Bed/main/icons/uno.png"></a></code>
       <br>
+      <code><a href="https://www.java.com"><img height="40" src="https://raw.githubusercontent.com/hacker-c/Picture-Bed/main/icons/java.png"></a></code>
       <code><a href="https://git-scm.com/"><img height="40" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/git.png"></a></code>
       <code><a href="https://learn.microsoft.com/en-us/powershell"><img height="40" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/pwsh1.png"></a></code>
       <code><a href="https://code.visualstudio.com/"><img height="40" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/vs-code.png"></a></code>
-      <code><a href="https://marketplace.visualstudio.com/items?itemName=atomiks.moonlight"><img height="40" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/moon-light.png"></a></code>
-      <code><a href="https://typora.io/"><img height="40" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/typora.png"></a></code>
-      <code><a href="https://www.microsoft.com/en-us/edge"><img height="40" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/edge.png"></a></code>
+      <code><a href="https://obsidian.md"><img height="40" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/obsidian.png"></a></code>
+      <code><a href="https://zen-browser.app"><img height="40" src="https://cdn.jsdelivr.net/gh/hacker-c/Picture-Bed@main/icons/zen.png"></a></code>
     </td>
     <td>
       <h3>Views 👀</h3>
@@ -48,7 +48,7 @@
     </td>
     <td>
       <h3>Top Lang 💻</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hacker-c&layout=compact&theme=tokyonight&hide=java,ruby,rust" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hacker-c&layout=compact&theme=tokyonight&hide=ruby,rust" />
     </td>
   </tr>
 </table>
